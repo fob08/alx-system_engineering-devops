@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -count | wc -1 
+find . -type f -count | wc -l 
